@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/drawable-v24/ic_call_focused.xml" value="0.17" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/drawable-v24/ic_person_focused.xml" value="0.17" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/drawable/custom_call_icon.xml" value="0.17" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/drawable/custom_input.xml" value="0.17" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/drawable/custom_person_icon.xml" value="0.17" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/drawable/ic_call.xml" value="0.17" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/drawable/ic_launcher_background.xml" value="0.17" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/drawable/ic_password.xml" value="0.1695" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/drawable/ic_person.xml" value="0.17" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/drawable/ic_price.xml" value="0.1695" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/layout/activity_admin.xml" value="0.20863616930312098" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/layout/activity_airtel.xml" value="0.25416666666666665" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/layout/activity_bsnl.xml" value="0.25416666666666665" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/layout/activity_confirm_otp.xml" value="0.20863616930312098" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/layout/activity_confirmation.xml" value="0.19709277469003847" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/layout/activity_feedback.xml" value="0.20863616930312098" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/layout/activity_getting_started.xml" value="0.20863616930312098" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/layout/activity_intro.xml" value="0.25416666666666665" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/layout/activity_jio.xml" value="0.20863616930312098" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/layout/activity_last.xml" value="0.20863616930312098" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/layout/activity_login.xml" value="0.20863616930312098" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/layout/activity_planlist.xml" value="0.20863616930312098" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/layout/activity_register.xml" value="0.20863616930312098" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/layout/activity_user.xml" value="0.20863616930312098" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/layout/activity_verification.xml" value="0.20863616930312098" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/layout/activity_vi.xml" value="0.25416666666666665" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/layout/planentry.xml" value="0.4" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/layout/slide_item_container.xml" value="0.25416666666666665" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/layout/toast_custom.xml" value="0.20863616930312098" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/menu/menu.xml" value="0.20778110303548525" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/menu/menu2.xml" value="0.20863616930312098" />
+        <entry key="..\:/Anant/MAD_Project/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.138" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
